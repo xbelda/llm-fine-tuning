@@ -154,3 +154,8 @@ cython_debug/
 
 # PyCharm
 .idea/
+
+# Folders
+mlruns/
+experiments/
+models/
